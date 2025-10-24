@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".fragment.FcKolnHistoryFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Gambar Klub -->
+        <ImageView
+            android:id="@+id/img_fc_koln"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/squad1fckoln"
+            android:contentDescription="@string/fc_koln_image_desc" />
+
+        <!-- Judul Klub -->
+        <TextView
+            android:id="@+id/tv_fc_koln_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. FC Köln"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:layout_marginTop="16dp" />
+
+        <!-- Subjudul -->
+        <TextView
+            android:id="@+id/tv_fc_koln_subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sejarah dan Perkembangan Klub Sepak Bola dari Kota Köln, Jerman"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            android:textColor="@android:color/darker_gray"
+            android:gravity="center"
+            android:layout_marginTop="4dp" />
+
+        <!-- Deskripsi Klub -->
+        <TextView
+            android:id="@+id/tv_fc_koln_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:lineSpacingExtra="6dp"
+            android:justificationMode="inter_word"
+            android:text="1. FC Köln adalah klub sepak bola profesional yang berbasis di kota Köln (Cologne), Jerman. Klub ini berdiri pada tanggal 13 Februari 1948 melalui penggabungan dua klub lokal, yaitu Kölner Ballspiel-Club 1901 dan SpVgg Sülz 07. Tujuan utama dari penggabungan ini adalah untuk membentuk satu klub kuat yang dapat bersaing di tingkat nasional, mewakili kota Köln di pentas sepak bola Jerman. Nama '1. FC Köln' berarti 'Football Club Köln yang Pertama'.
+
+Sejak awal berdirinya, 1. FC Köln telah dikenal sebagai salah satu klub paling berpengaruh di wilayah barat Jerman. Klub ini mulai menunjukkan dominasinya di tahun-tahun awal Bundesliga, kompetisi sepak bola profesional Jerman yang dimulai pada tahun 1963. Di musim perdana Bundesliga tersebut, Köln berhasil mencatat sejarah dengan menjadi juara pertama liga, di bawah asuhan pelatih Georg Knöpfle. Keberhasilan ini menempatkan 1. FC Köln sebagai kekuatan besar baru di sepak bola Jerman.
+
+Pada tahun 1970-an dan 1980-an, Köln kembali berjaya dengan memenangkan DFB-Pokal sebanyak tiga kali (1968, 1977, dan 1978) serta meraih gelar Bundesliga kedua pada musim 1977–1978. Klub ini juga sempat menembus partai final Piala UEFA (kini Liga Europa) pada tahun 1986, meskipun akhirnya kalah dari Real Madrid. Masa ini dianggap sebagai periode emas 1. FC Köln dengan pemain-pemain legendaris seperti Wolfgang Overath, Toni Schumacher, dan Pierre Littbarski.
+
+Julukan klub ini adalah 'Die Geißböcke' (The Billy Goats), yang terinspirasi dari maskot klub berupa kambing bernama Hennes. Maskot ini diberikan kepada klub pada tahun 1950 oleh seorang pelawak lokal bernama Carola Williams. Sejak itu, Hennes menjadi simbol kebanggaan bagi klub dan penggemar, bahkan setiap versi 'Hennes' yang baru diberi nomor urut dan dirawat secara khusus di kebun binatang Köln.
+
+Markas klub, RheinEnergieStadion, terletak di distrik Müngersdorf, Köln. Stadion ini memiliki kapasitas lebih dari 50.000 penonton dan dikenal dengan atmosfer yang sangat meriah setiap kali FC Köln bermain, terutama ketika menghadapi rival berat seperti Borussia Mönchengladbach dan Bayer Leverkusen. Dukungan fanatik dari para pendukungnya, yang dikenal sebagai 'Effzeh Fans', menjadikan stadion ini salah satu yang paling berisik dan penuh semangat di Jerman.
+
+Meski pernah mengalami pasang surut, termasuk degradasi ke 2. Bundesliga beberapa kali, 1. FC Köln selalu berhasil bangkit dan kembali ke papan atas Bundesliga. Klub ini dikenal memiliki sistem akademi yang kuat dan terus menelurkan pemain muda berbakat yang kemudian menjadi bagian penting tim utama.
+
+Warna kebanggaan klub adalah merah dan putih, yang melambangkan semangat dan kemurnian. Selain prestasi di lapangan, 1. FC Köln juga aktif dalam berbagai kegiatan sosial, pendidikan, dan pelestarian budaya lokal, menjadikannya lebih dari sekadar klub sepak bola — melainkan simbol kebanggaan kota Köln.
+
+Kini, 1. FC Köln terus berjuang mempertahankan eksistensinya di Bundesliga dan berupaya memperkuat posisi sebagai klub yang profesional, solid, serta memiliki hubungan erat dengan para penggemarnya di seluruh dunia." />
+    </LinearLayout>
+</ScrollView>

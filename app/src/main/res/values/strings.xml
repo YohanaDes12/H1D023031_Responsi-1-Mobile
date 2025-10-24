@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile (H1D023031)</string>
+    <string name="club_name">1. FC Köln</string>
+    <string name="club_history">1. FC Köln History</string>
+
+    <string name="man_city_description">1. FC Köln, often abbreviated as FC Köln or simply Köln, is a professional football club based in Cologne (Köln), Germany. Founded in 1948 through the merger of two local clubs, the team is known by the nickname "Die Geißböcke" (The Billy Goats), referring to their mascot, Hennes. Köln plays their home matches at the RheinEnergieStadion and is recognized as one of the founding teams of the Bundesliga. They were the first Bundesliga champions in the modern era.</string>
+
+    <string name="club_history_label_navigation">Club History</string>
+    <string name="head_coach_label_navigation">Head Coach</string>
+    <string name="team_squad_label_navigation">Team Squad</string>
+
+    <string name="club_history_detail">
+    1. FC Köln was founded on February 13, 1948, through the merger of two existing clubs in Cologne: Kölner Ballspiel-Club 01/07 and SpVgg Sülz 07. The main founder, Franz Kremer, had a vision of creating a major club that would represent the entire city of Cologne. The new club quickly established itself as a leading force in post-war German football.\n\n
+    The club’s first golden era occurred in the early 1960s. When the Bundesliga was established in 1963 as the unified professional league in West Germany, 1. FC Köln became the **first Bundesliga champion** in the 1963–64 season under the legendary coach Georg Knöpfle. This success solidified their status as pioneers in modern German football.\n\n
+    Success continued into the 1970s. Under the management of Hennes Weisweiler—a coach also famous for his success at Gladbach—Köln achieved a historic **Bundesliga and DFB-Pokal (German Cup) double** in the 1977–78 season. This period is often considered the absolute peak of the club\\\'s achievements, cementing Weisweiler as a pivotal figure in the club\'s history.\n\n
+    Despite being regulars in European competitions and producing star players like Wolfgang Overath, Bernd Schuster, and Pierre Littbarski, the 1980s and subsequent decades were marked by instability. The club suffered from significant declines in performance, leading to frequent periods of **relegation** (dropping down a division) to the 2. Bundesliga, followed by promotion back to the top flight.\n\n
+    The club's mascot, **a male goat named Hennes**, is its most recognizable symbol. The first Hennes was gifted to the club in 1950 and the mascot, currently Hennes IX, attends home matches at the stadium. Despite the team’s constant fluctuation between divisions, Köln's fanbase remains famous for its loyalty and passionate support, particularly during the city's annual carnival celebrations.\n\n
+    Today, 1. FC Köln continues to strive for a stable position in the Bundesliga. They are known for their focus on youth development and a playing philosophy that emphasizes spirit and hard work. While challenges often arise, the club's identity—defined by its stadium, faithful fans, and mascot Hennes—remains one of the most unique and beloved in German football.
+    </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
