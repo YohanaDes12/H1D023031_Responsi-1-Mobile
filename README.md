@@ -69,8 +69,7 @@ Seluruh tampilan dibangun menggunakan **Activity** dan **RecyclerView** sesuai s
 ---
 
 ## 📸 Demo Aplikasi
-*(Tambahkan tangkapan layar atau GIF demo di sini jika sudah ada)*
-
+![Demo Aplikasi](https://github.com/YohanaDes12/H1D023031_Responsi-1-Mobile/blob/main/app/src/main/res/drawable/memo_responsi_1_mobile.gif?raw=true)
 ---
 
 ## 💡 Kesimpulan
